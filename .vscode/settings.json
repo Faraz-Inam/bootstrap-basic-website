@@ -1,0 +1,6 @@
+{
+    "workbench.editor.showIcons": true,
+    "editor.suggest.showIcons": true,
+    "workbench.iconTheme": "vs-seti",
+    "editor.scrollbar.horizontal": "hidden"
+}
